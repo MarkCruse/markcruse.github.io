@@ -36,3 +36,14 @@
   color: #ffffff; /* Adjust the text color to be visible against the background image */
   padding: 100px;
 }
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+  }
+}
