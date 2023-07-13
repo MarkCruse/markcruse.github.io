@@ -37,13 +37,13 @@
   padding: 100px;
 }
 
-/* Media query for smaller screens */
+/* Media query for phone screens */
 @media (max-width: 480px) {
   h1 {
-    font-size: 0.25rem;
+    font-size: 0.5rem;
   }
 
   h3 {
-    font-size: 0.75rem;
+    font-size: 1.25rem;
   }
 }
