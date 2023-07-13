@@ -38,12 +38,12 @@
 }
 
 /* Media query for smaller screens */
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   h1 {
-    font-size: 1.75rem;
+    font-size: 0.25rem;
   }
 
   h3 {
-    font-size: 1.25rem;
+    font-size: 0.75rem;
   }
 }
