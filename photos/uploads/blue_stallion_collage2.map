@@ -1,0 +1,9 @@
+<img src="blue_stallion_brewery_collage2.png" width="640" height="640" border="0" usemap="#map" />
+
+<map name="map">
+
+<area shape="rect" coords="6,6,375,633" href="image.jpg" />
+<area shape="rect" coords="381,5,632,213" href="PXL_20230715_215002966.jpg" />
+<area shape="rect" coords="382,217,635,422" href="PXL_20230715_221103283.jpg" />
+<area shape="rect" coords="380,429,635,635" href="PXL_20230715_222002742.PORTRAIT.jpg" />
+</map>
