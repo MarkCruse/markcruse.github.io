@@ -1123,10 +1123,10 @@ pre {
 /* Media query for smaller screens */
 @media (max-width: 768px) {
   h1 {
-    font-size: 1.75rem;
+    font-size: 1.50rem;
   }
 
   h3 {
-    font-size: 1.25rem;
+    font-size: 1.15rem;
   }
 }
