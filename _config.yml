@@ -21,6 +21,7 @@ author: Mark Cruse
  
 navbar-links:
   About Me: "aboutme"
+  Blog: "/blog"
   Photography: "photo"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -28,7 +29,6 @@ navbar-links:
   Cartography: 
     - Digital Maps: "digital_maps/"
     - Print Maps: "print_maps/"
-  Blog: "/blog"
 
 ################
 # --- Logo --- #
