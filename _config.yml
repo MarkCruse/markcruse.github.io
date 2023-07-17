@@ -27,8 +27,19 @@ navbar-links:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn GeoPandas: "https://github.com/MarkCruse/geopandas-101/blob/master/geopandas-101.ipynb"
   Cartography: 
-    - Digital Maps: "digital_maps/"
+    - Digital Maps: "/digital_maps"
     - Print Maps: "print_maps/"
+
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
+  digitalmaps:
+    output: true
+    permalink: /digital_maps/:year-:month-:day-:title
+    order: descending
+    sort_by: date
 
 ################
 # --- Logo --- #
