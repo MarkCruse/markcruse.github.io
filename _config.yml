@@ -63,6 +63,9 @@ round-avatar: true
 imagesurl: "/photos/img/"
 thumbsurl: "/photos/thumbs/"
 
+baseurl: ""
+url: "https://markcruse.github.io"
+
 #####################################
 # --- Footer social media links --- #
 #####################################

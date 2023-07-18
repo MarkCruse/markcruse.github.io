@@ -4,7 +4,7 @@
     name="viewport"
     content="width=device-width, initial-scale=1, shrink-to-fit=no"
   />
-  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+
   {% capture title %} {%- if page.share-title -%} {{ page.share-title |
   strip_html | xml_escape }} {%- elsif page.title -%} {{ page.title | strip_html
   | xml_escape }} {%- else -%} {{ site.title | strip_html | xml_escape }} {%-
@@ -101,5 +101,10 @@
   site.staticman.repository and site.staticman.branch %} <link rel="stylesheet"
   href="{{ "/assets/css/staticman.css" | relative_url }}"> {% endif %} {% if
   page.head-extra %} {% for file in page.head-extra %} {% include {{ file }} %}
-  {% endfor %} {% endif %}
+  {% endfor %} {% endif %} <link rel="stylesheet" href="{{
+  "/assets/css/custom.css" | relative_url }}">
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/css/lightbox.min.css"
+  />
 </head>
