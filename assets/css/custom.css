@@ -51,7 +51,10 @@
     font-size: 1.5rem;
   }
 }
-.navbar-custom.top-nav-regular .avatar-container {
-  width: 5.25rem;
-  bottom: -1.9375rem;
+
+@media (min-width: 1200px) {
+  .navbar-custom.top-nav-regular .avatar-container {
+    width: 5.25rem;
+    bottom: -1.9375rem;
+  }
 }
