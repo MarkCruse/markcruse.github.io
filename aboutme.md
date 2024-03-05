@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About me
+title: About Mark Cruse
 subtitle: My wife says I don't eat enough vegetables; plus other interesting frivolities...
+keywords: "Mark Cruse"
 ---
 
 ### My story
 
-My primary interests revolve around cartography, photography, computer programming, travel, and ham radio. I consider myself a tinkerer, often delving into areas that may seem beyond my expertise. However, the joy of exploration and learning keeps me engaged. While I may not excel in creative writing, I possess strong technical writing skills that enable me to effectively communicate complex ideas. Nevertheless, I anticipate that crafting content for my blog page will pose an exciting challenge for me
+My primary interests revolve around cartography, photography, computer programming, travel, and ham radio. I consider myself a tinkerer, often delving into areas that may seem beyond my expertise. However, the joy of exploration and learning keeps me engaged. While I may not excel in creative writing, I possess strong technical writing skills that enable me to effectively communicate complex ideas. Nevertheless, I anticipate that crafting content for my blog page will pose an exciting challenge for me.
 
 ### Education and work
 I hold a bachelor's degree in Computer Information Systems from Western Kentucky University, which paved the way for a fulfilling 30-year career in the field of computers. Throughout my career, I have gained experience in various roles, including desktop and server support, computer programming, and management of technical teams.
