@@ -7,14 +7,14 @@ keywords: "Mark Cruse"
 
 ### My story
 
-My primary interests revolve around cartography, photography, computer programming, data analysis, travel, and ham radio. I consider myself a tinkerer, often delving into areas that may seem beyond my expertise. However, the joy of exploration and learning keeps me engaged. While I may not excel in creative writing, I possess strong technical writing skills that enable me to effectively communicate complex ideas. Nevertheless, I anticipate that crafting content for my blog page will pose a significant challenge for me.
+My primary interests revolve around cartography, photography, computer programming, data analysis, travel, and amateur radio. I consider myself a tinkerer, often delving into areas that may seem beyond my expertise. However, the joy of exploration and learning keeps me engaged. While I may not excel in creative writing, I possess strong technical writing skills that enable me to effectively communicate complex ideas. Nevertheless, I anticipate that crafting content for my blog page will pose a significant challenge for me.
 
 ### Education and work
-I hold a bachelor's degree in Computer Information Systems from Western Kentucky University, which paved the way for a fulfilling 20+ year career in the field of technology. Throughout my career, I have gained experience in various roles, including desktop and server support, computer programming, and management of technical teams.
+I hold a bachelor's degree in Computer Information Systems from Western Kentucky University, which paved the way for a fulfilling 20+ year career in the field of information technology. Throughout my career, I have gained experience in various roles, including desktop and server support, computer programming, and management of technical teams.
 
 In 2014, I embarked on my second career as a data professional, a journey that continues to captivate me today. My focus on data analytics has led to the advancement of my proficiency in Python, SQL, and visualization tools. I am dedicated to crafting data-driven solutions that enhance user experiences and contribute to business growth. For a detailed overview of my professional journey and skills, please refer to my [resume](https://waywardmark.com/resume.pdf).
 
-In 2019, I pursued a Master's degree in Digital Mapping from the University of Kentucky to further explore my passion for maps and cartography. This educational journey provided me with valuable skills in creating custom maps and enhanced my proficiency in critical thinking, programming, and data science.
+In 2019, I pursued a Master's degree in [Digital Mapping](https://newmapsplus.as.uky.edu/programs) from the University of Kentucky to further explore my interests in data analytics and cartography. This educational journey provided me with valuable skills in creating custom maps and enhanced my proficiency in critical thinking, programming, and data science.
 
 Maps have always captivated me, and with my specialized training, I can now combine my technical expertise with my fascination for cartography. Additionally, my master's program expanded my knowledge in crucial areas that complement my work, allowing me to approach challenges with a well-rounded perspective.
 
