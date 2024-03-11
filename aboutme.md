@@ -12,7 +12,12 @@ My primary interests revolve around cartography, photography, computer programmi
 ### Education and work
 I hold a bachelor's degree in Computer Information Systems from Western Kentucky University, which paved the way for a fulfilling 20+ year career in the field of information technology. Throughout my career, I have gained experience in various roles, including desktop and server support, computer programming, and management of technical teams.
 
-In 2014, I embarked on my second career as a data professional, a journey that continues to captivate me today. My focus on data analytics has led to the advancement of my proficiency in Python, SQL, and visualization tools. I am dedicated to crafting data-driven solutions that enhance user experiences and contribute to business growth. For a detailed overview of my professional journey and skills, please refer to my [resume](https://markcruse.github.io/resume/).
+In 2014, I embarked on my second career as a data professional, a journey that continues to captivate me today. My focus on data analytics has led to the advancement of my proficiency in Python, SQL, and visualization tools. I am dedicated to crafting data-driven solutions that enhance user experiences and contribute to business growth.
+
+In addition to technical skills, my unique blend of non-technical abilities, fueled by empathy and curiosity, enables me to excel in understanding stakeholders' needs, creating insightful reports, and crafting visualizations with compelling narratives. Strong communication and interpersonal skills allow me to bridge the gap between technical and non-technical audiences, distilling complex information clearly. I approach my work with a positive attitude, collaborative spirit, and proactive, autonomous project management style.
+
+For a detailed overview of my professional journey and skills, please refer to my [resume](https://markcruse.github.io/resume/).
+
 
 In 2019, I pursued a Master's degree in [Digital Mapping](https://newmapsplus.as.uky.edu/programs) from the University of Kentucky to further explore my interests in data analytics and cartography. This educational journey provided me with valuable skills in creating custom maps and enhanced my proficiency in critical thinking, programming, and data science.
 
