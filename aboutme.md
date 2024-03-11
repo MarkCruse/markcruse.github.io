@@ -7,7 +7,7 @@ keywords: "Mark Cruse"
 
 ### My story
 
-My primary interests revolve around cartography, photography, computer programming, data analysis, travel, and amateur radio. I consider myself a tinkerer, often delving into areas that may seem beyond my expertise. However, the joy of exploration and learning keeps me engaged. While I may not excel in creative writing, I possess strong technical writing skills that enable me to effectively communicate complex ideas. Nevertheless, I anticipate that crafting content for my blog page will pose a significant challenge for me.
+My primary interests revolve around cartography, photography, computer programming, data analysis, travel, and amateur radio. I consider myself a tinkerer, often delving into areas that may seem beyond my expertise. I thrive on curiosity and am always eager to explore new and challenging endeavors. I find great satisfaction in pushing my boundaries and welcome the opportunity to tackle complex problems, as I genuinely enjoy a good challenge. It's in the face of difficulty that I discover the most about myself and my capabilities.
 
 ### Education and work
 I hold a bachelor's degree in Computer Information Systems from Western Kentucky University, which paved the way for a fulfilling 20+ year career in the field of information technology. Throughout my career, I have gained experience in various roles, including desktop and server support, computer programming, and management of technical teams.
