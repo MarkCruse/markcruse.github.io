@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mark Cruse Resume"
-permalink: "resume"
+permalink: /resume
 description: "Mark Cruse Resume"
 keywords: "Mark Cruse, Lexington, Kentucky"
 ---
