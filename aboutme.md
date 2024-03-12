@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Mark Cruse
+description: Mark Cruse, Lexington, KY, About me
 subtitle: My wife says I don't eat enough vegetables; plus other interesting frivolities...
 keywords: "Mark Cruse"
 ---
