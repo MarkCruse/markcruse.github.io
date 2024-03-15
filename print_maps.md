@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Map Gallery
-keywords: "Mark Cruse"
+description: "Mark Cruse, Lexington, KY, maps"
 ---
 The maps presented below were generated using Python and OSMnx to create GeoPackage files. These files were subsequently imported into QGIS to create print-ready maps. 
 

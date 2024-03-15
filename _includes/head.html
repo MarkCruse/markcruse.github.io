@@ -27,14 +27,16 @@
   <meta name="theme-color" content="{{ site.mobile-theme-col }}" />
   {% endif %} {% if site.keywords %}
   <meta name="keywords" content="{{ site.keywords }}" />
-  {% endif %} {% if site.rss-description %}
+  {% endif %}
+  <!--{% if site.rss-description %}
   <link
     rel="alternate"
     type="application/rss+xml"
     title="{{ site.title }}"
     href="{{ '/feed.xml' | absolute_url }}"
   />
-  {% endif %} {% include gtag.html %} {% include gtm_head.html %} {% include
+  {% endif %} -->
+  {% include gtag.html %} {% include gtm_head.html %} {% include
   google_analytics.html %} {% include cloudflare_analytics.html %} {% if
   layout.common-ext-css %} {% for css in layout.common-ext-css %} {% include
   ext-css.html css=css %} {% endfor %} {% endif %} {% if layout.common-css %} {%
@@ -58,7 +60,7 @@
   img=img | strip -%}
 
   <meta property="og:title" content="{{ title }}" />
-  <meta property="og:description" content="{{ description }}" />
+  <meta property="og:description" content="{{ page.description }}" />
 
   {% if img != "" %}
   <meta property="og:image" content="{{ img | absolute_url }}" />
